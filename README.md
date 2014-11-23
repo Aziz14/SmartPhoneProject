@@ -24,5 +24,5 @@ The following 5 steps were carried out to generate tidy data (Please see CodeBoo
 Please follow these steps to run 'run_analysis.R' script to generate the tidy data
 
 1.	1.download data to current working directory from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR
-2.	2.Uzip data in current working directory. Folder called "UCI HAR Dataset" will created containing all files.
+2.	2.Uzip data in current working directory. A folder called "UCI HAR Dataset" will be created containing all files and subfolders(e.g., train and test).
 3.	To run the R scrip use the following: source("run_analysis.R")
