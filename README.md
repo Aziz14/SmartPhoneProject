@@ -9,7 +9,7 @@ The aim of this project is to allow the learner to demonstrate his/her ability t
 
 • CodeBook.md is document that describes the study, including a brief description of the experiment, source of raw data, variables used, and how to generate a tidy dataset. 
 
-• README.md :  A file that describes how to generate
+• README.md :  A file that describes how to generate the tidy dataset.
 
 • run_analysis.R: This is the R script that will generate the tidy data.
 
