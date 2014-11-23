@@ -8,7 +8,9 @@ The aim of this project is to allow the learner to demonstrate his/her ability t
  The current repository contains the following files:
 
 • CodeBook.md is document that describes the study, including a brief description of the experiment, source of raw data, variables used, and how to generate a tidy dataset. 
+
 • README.md :  A file that describes how to generate
+
 • run_analysis.R: This is the R script that will generate the tidy data.
 
 The following 5 steps were carried out to generate tidy data (Please see CodeBook.md document for detailed explanation)
